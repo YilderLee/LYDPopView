@@ -12,3 +12,10 @@ you can use this popView in iPhone like UIPopoverController in iPad do!
 //use this method to show it in screen
 
 -(void)show;
+
+# Email
+
+myEmail:yilder_lee@qq.com
+
+if you find out any bug or have any advices,hope you can send a email to me!
+I will be very grateful to you^_^
