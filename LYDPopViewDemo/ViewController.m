@@ -75,7 +75,7 @@
     
     LYDPopoverView *popView = [LYDPopoverView LYDPopoverViewWithSize:CGSizeMake(kUIScreenWidth / 4, 5 * 44) andFromView:self.btn.frame andDirection:LYDPopoverViewDirectionBottom];
     popView.isCornerRadius = YES;
-    popView.borderWidth = 0.5;
+    popView.borderWidth = 1;
     popView.delegate = self;
     popView.dataSource = self;
     [popView show];
