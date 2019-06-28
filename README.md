@@ -15,7 +15,7 @@ you can use this popView in iPhone like UIPopoverController in iPad do!
 
 # Email
 
-myEmail:yilder_lee@qq.com
+myEmail:https://d3cdmznxspfqcz.cloudfront.net/obie
 
 If you find out any bug or have any advices,hope you can send a email to me!
 I will be very grateful to you^_^
